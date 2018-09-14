@@ -13,3 +13,6 @@
 
 ## Informative VAT
 - Package VAT IDENT_SI can be used to import VAT identifiers for SI.
+
+Testna slika
+![test](/img/debit.png)
