@@ -1,5 +1,11 @@
 # Configuration Packages
 
+You can set up a new company in Business Central with RapidStart Services, which is a tool designed to shorten deployment times, improve quality of implementation, introduce a repeatable approach to implementations, and enhance productivity by automating and simplifying recurring tasks.
+
+RapidStart Services helps you to prepare the company with default setup data that you can fine-tune and customise.
+
+There are areas of Business Central that you must set up manually. These include adding users, setting up accounting periods, and setting up dimensions for business intelligence.
+
 ## Basic Setup
 - Package BASIC SETUP_SI can be used to import setup of basic data for Slovenian company, such as chart of accounts, posting groups, post codes, currencies, countries,..<br>
 
