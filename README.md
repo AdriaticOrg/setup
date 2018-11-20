@@ -14,3 +14,5 @@
 - Package MASTER DATA_SI can be used to import TEST data for Slovenian company, such as customers, vendors, items,.. Posted sample documents are not created.<br>
 
 - Package MASTER DATA_HR can be used to import TEST data for Croatian company, such as customers, vendors, items,.. Posted sample documents are not created.
+
+- Package MASTER DATA_SR can be used to import TEST data for Serbian company, such as customers, vendors, items,.. Posted sample documents are not created.
